@@ -2,3 +2,4 @@ node_modules/
 .sites-runtime/
 .env
 .DS_Store
+.vs/
