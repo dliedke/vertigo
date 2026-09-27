@@ -4,7 +4,7 @@ Jogo de BASE jump e wingsuit em HTML, CSS e JavaScript com Three.js 0.180.0. O c
 
 ## Jogar
 
-▶️ **[Jogue agora no navegador](https://dliedke.github.io/vertigo/)**
+▶️ **[Jogue agora no navegador](https://dliedke.github.io/vertigo/dist/index.html)**
 
 ## Jogar localmente
 
