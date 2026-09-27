@@ -2,6 +2,10 @@
 
 Jogo de BASE jump e wingsuit em HTML, CSS e JavaScript com Three.js 0.180.0. O cenário é uma interpretação procedural dos Alpes, inspirada no voo no Monte Emilius mencionado na referência; não é uma reconstrução geográfica.
 
+## Jogar
+
+▶️ **[Jogue agora no navegador](https://dliedke.github.io/vertigo/)**
+
 ## Jogar localmente
 
 No Windows, extraia o ZIP e execute **JOGAR.cmd** com o Node.js instalado.
