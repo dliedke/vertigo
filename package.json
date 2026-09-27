@@ -1,0 +1,1 @@
+{"name":"vertigo-basejump","version":"1.0.0","type":"module","private":true,"scripts":{"check":"node --check dist/game.js && node --check dist/world.js && node --check dist/physics.js","test":"node tests/flight.test.js"}}
